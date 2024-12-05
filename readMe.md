@@ -63,6 +63,7 @@ A chatbot in Python using NLTK that can assist elderly, less capable, or non-tec
 
 ## High-Level Workflow
 
+
 ### Repository Monitoring
 - Use a tool or script to watch for changes in your repository (e.g., using Git hooks like `pre-push` or `post-commit`).
 
@@ -91,3 +92,15 @@ A chatbot in Python using NLTK that can assist elderly, less capable, or non-tec
 ### Log Aggregation and Reporting
 - Store logs in a structured format (e.g., JSON or plain text).
 - Use a web interface or a CLI tool to view logs and test results.
+
+
+# Minecraft server - single player world sync
+
+A program to allow small servers (that with friends usually) to sync up a world file/save so friends can play offline after the server goes offline for the day.
+
+Its going to be hard to sync up changes, but it wont be impossible
+
+
+# Android spelling assistant for kids
+
+An app that scans spelling homework and generates a fun test to do for the learning child, no paper or pen required!
