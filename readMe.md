@@ -1,5 +1,5 @@
 
-# Go Test Generator
+# Go Test Generator - DONE
 
 Read a go file and make test file for it. If a test file already exists, check what tests exists and dont remake the tests, add to the tests
 
@@ -103,4 +103,11 @@ Its going to be hard to sync up changes, but it wont be impossible
 
 # Android spelling assistant for kids
 
-An app that scans spelling homework and generates a fun test to do for the learning child, no paper or pen required!
+An app that scans spelling homework and generates a fun test to do for the learning child, no paper or pen required! 
+
+New idea for this idea, make a game in godot since it can be compiled for IOS and Android and can gameify the learning process making it fun to learn. Can add features like outfits for a character that can be purchased in game with earned currency. Could have multiple learning criteria like
+
+- Spelling
+- Maths
+- Science
+- Geography
