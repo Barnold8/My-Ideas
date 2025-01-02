@@ -111,3 +111,21 @@ New idea for this idea, make a game in godot since it can be compiled for IOS an
 - Maths
 - Science
 - Geography
+
+
+# Godot horror game **dishevelled** 
+
+intro is a slow drive into a forest 
+
+searching woods for something 
+
+creepy woman can sink into floor and pursue the player 
+
+maybe look like ps1 with shaders 
+
+voice detection for horror, maybe creepy woman can follow the person based on noise 
+
+cabin in the woods 
+
+searching for answers 
+
