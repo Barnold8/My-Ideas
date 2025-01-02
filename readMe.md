@@ -113,7 +113,7 @@ New idea for this idea, make a game in godot since it can be compiled for IOS an
 - Geography
 
 
-# Godot horror game **dishevelled** 
+# Godot horror game **Miasma** 
 
 ## rough idea 
 
