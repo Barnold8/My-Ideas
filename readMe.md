@@ -1,4 +1,3 @@
-oh
 # Go Test Generator - DONE
 
 Read a go file and make test file for it. If a test file already exists, check what tests exists and dont remake the tests, add to the tests
@@ -163,3 +162,14 @@ you come into contact with a door that opens up to a street on broad daylight. t
 {ending cinematic}
 
 you walk through the door, blasted with daylight in the eyes, you turn around to see a gun barrel in your face, the trigger is pulled and a flash of light hits your eyes, this then trsnsitions into seeing your body on the floor from a top down view, the camera slowly moves up into the sky showing the title again, while the camera is panning up, the same radio broadcast you heard at the start of the game is being heard again 
+
+
+#DocWeaver  
+
+An automatic AI documenting tool. so you pass it in a source file or maybe a project and itll go through commenting all the code
+
+parses legacy/old code or even bad code that predates those tools and does it for all those files
+
+#TreeTrace  
+
+a program that visualises other programs as trees. so you can see from main where it can branch off to, to different function calls in a GUI tree
